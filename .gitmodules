@@ -1,0 +1,3 @@
+[submodule "Plugins/TaskReceiver.Plugins.Nuernberger"]
+	path = Plugins/TaskReceiver.Plugins.Nuernberger
+	url = https://github.com/Kimmax/TaskReceiver.Plugins.Nuernberger
